@@ -22,7 +22,7 @@
 ![Static Badge](https://img.shields.io/badge/tensorflow-black?style=for-the-badge&logo=tensorflow&logoColor=white&logoSize=auto&labelColor=%23FF6F00&color=black)
 
 
-# Setup
+## Setup
 ![Static Badge](https://img.shields.io/badge/nvidia-black?style=for-the-badge&logo=nvidia&logoColor=white&logoSize=auto&labelColor=%2376B900&color=black)
 ![Static Badge](https://img.shields.io/badge/intel-black?style=for-the-badge&logo=intel&logoColor=white&logoSize=auto&labelColor=%230071C5&color=black)
 ![Static Badge](https://img.shields.io/badge/kingstontechnology-black?style=for-the-badge&logo=kingstontechnology&logoColor=white&logoSize=auto&labelColor=%23000000&color=black)
